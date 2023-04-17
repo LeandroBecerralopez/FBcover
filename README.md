@@ -6,10 +6,10 @@ El juego funciona  aplicando conceptos de lógica de  actualización de  posicio
 Se crea una clase Game para tener un mejor  control  sobre  otras clsaes como la clase Game Over y en un futuro  distintos niveles y o menús.
 Para ejecutarlo:
 
-1.Se escarga la carpeta FVcover
+1. Se descarga la carpeta FVcover
 
 
-2.Se corre el archivo boll.py
+2. Se corre el archivo boll.py
 
 Notas: 
 Se debe tener instalado python ademas del modulo pygame.
